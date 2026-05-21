@@ -830,3 +830,16 @@ React filled the empty div with whatever `App` returned.
 
 ---
 
+This below topics needs to be explained
+
+What is JSX, why and for which task we use it. = This is basically the combination of JavaScript and HTML.
+
+Why we JSX instead Of normal JavaScript [give the reason]
+
+---
+
+npm run dev [explain wehat this command does]
+
+what is import and export keyword
+
+---
